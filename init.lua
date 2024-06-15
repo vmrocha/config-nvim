@@ -17,4 +17,3 @@ require("vim-options")
 
 local opts = {}
 require("lazy").setup("plugins", opts)
-require("neovim-lsp")

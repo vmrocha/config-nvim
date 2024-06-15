@@ -17,3 +17,5 @@ I'm using [lazy.vim](https://github.com/folke/lazy.nvim) as plugin manager.
 - [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim)
 - [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim)
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+- [nvim-telescope/telescope-ui-select.nvim](https://github.com/nvim-telescope/telescope-ui-select.nvim)
+
