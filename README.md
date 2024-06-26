@@ -4,6 +4,10 @@ This is my personal configuration for Neovim. Is it finally the year of vim in m
 
 ![14-52-3mqtw-2zga7](https://github.com/vmrocha/config-nvim/assets/123785/3aa0a07e-8d02-41f5-a2c8-5088e578c23d)
 
+## Dependencies
+
+- [ripgrep](https://github.com/BurntSushi/ripgrep): required for telescope grep search
+
 ## Plugins
 
 I'm using [lazy.vim](https://github.com/folke/lazy.nvim) as plugin manager.
