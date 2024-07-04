@@ -7,6 +7,7 @@ This is my personal configuration for Neovim. Is it finally the year of vim in m
 ## Dependencies
 
 - [ripgrep](https://github.com/BurntSushi/ripgrep): required for telescope grep search
+- [build-essential](https://github.com/vmrocha/config-nvim.git) on ubuntu
 
 ## Plugins
 
